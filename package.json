@@ -1,0 +1,30 @@
+{
+  "name": "testactionnode.local",
+  "version": "1.0.0",
+  "description": "Test task from kolesnikovefrem868097@mail.ru. Stack: PHP, MySQL, NodeJS. Purpose: Check files in zip archive for printable character and send them by API to NodeJS app. NodeJS app musr add statistic from file to DB and build from this statistic page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xantos008/testTaskFromNowhere.git"
+  },
+  "keywords": [
+    "PHP",
+    "JS",
+    "NodeJS",
+    "Zip",
+    "Socket.io",
+    "Elephant.io"
+  ],
+  "author": "Igor Rykin (xantos008)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xantos008/testTaskFromNowhere/issues"
+  },
+  "homepage": "https://github.com/xantos008/testTaskFromNowhere#readme",
+  "dependencies": {
+    "socket.io": "^4.3.1"
+  }
+}
